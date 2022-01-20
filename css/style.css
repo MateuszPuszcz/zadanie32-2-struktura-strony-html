@@ -1,0 +1,69 @@
+html {
+    background-color:
+    width: 650px;
+}
+nav {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+section {
+    text-align: left;
+}
+
+h1 {
+    font-size: 45px;
+    margin-left: 40px;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+}
+
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.table {
+    background-color: rgb(151, 100, 247);
+    border: 40px; 
+    margin: 10px;
+}
+#home {
+    width: 600px;
+    height: 200px;
+    background-color: darkkhaki;
+    border: 40px; 
+    margin: 10px;
+  }
+
+#about {
+    width: 600px;
+    height: 300px;
+    background-color: darkkhaki;
+    border: 40px; 
+    margin: 10px;
+  }
+#contact {
+    width: 600px;
+    height: 400px;
+    background-color: darkkhaki;
+    border: 40px; 
+    margin: 10px;
+  }
+
+#footer {
+    width: 600px;
+    height: 50px;
+    background-color: rgb(196, 195, 195);
+    border: 40px; 
+    margin: 10px;
+  }
